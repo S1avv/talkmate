@@ -43,7 +43,7 @@ TalkMate - это приложение для обмена сообщениям�
 
 1. Настройте ваши учетные данные Firebase. Обратитесь к talkmate/config/firebase.json для необходимой конфигурации.
 
-##FireStore Database:
+<b>FireStore Database:</b>
 1. search_interlocutor 
 —— users_list
  
