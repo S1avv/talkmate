@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "talkmate"
+version = "0.1.0"
+description = "Talkmate is a platform designed for those seeking interesting conversation partners for casual chatting."
+authors = ["S1avv <code.launchx@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+aiogram = "^3.3.0"
+firebase-admin = "^6.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
